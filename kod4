@@ -1,0 +1,8 @@
+@page "/"
+
+<h1>Emine Gül Palabıyık</h1>
+
+Ayrıntılı bilgi için menüye tıklayınız.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+Index.razor

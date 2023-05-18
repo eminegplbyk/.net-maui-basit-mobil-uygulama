@@ -1,0 +1,22 @@
+@page "/counter"
+
+<h1>Bilgilerim</h1>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title of the document</title>
+</head>
+
+<body>
+    Ad Soyad: Emine Gül Palabıyık
+    <br>Doğum Tarihi: 30.01.2003
+    <br>Öğrenci No: 22420210016
+    <br>
+    <br>2003 yılında Osmaniye'de doğdum.
+    <br>Osmaniye Simya Koleji'nden mezun olduktan sonra eğitim öğretim hayatıma Gazi Üniversitesi ile devam ettim.
+    <br>Şu anda da aktif öğrenclik hayatıma Yönetim Bilişim Sistemleri bölümünde devam ediyorum.
+</body>
+
+</html>
+Counter.razor

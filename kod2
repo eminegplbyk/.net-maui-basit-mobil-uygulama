@@ -1,0 +1,24 @@
+[22:50, 15.05.2023] Burak : @page "/fetchdata"
+
+@using Emine_Gul_Palabiyik_APP.Data
+
+<h1>Adres Bilgilerim</h1>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title of the document</title>
+</head>
+
+<body>
+    • <a href="https://twitter.com/eemineplb">Twitter</a>
+    <br>
+    • <a href="https://www.linkedin.com/in/emine-g%C3%BCl-palab%C4%B1y%C4%B1k-522228245/">Linkedin</a>
+    <br>
+    • <a href="https://github.com/eminegplbyk">Github</a>
+    <br>
+    • <a href="mailto:emine19070@gmail.com">Mail</a>
+</body>
+
+</html>
+FetchData.razor
